@@ -19,7 +19,9 @@
 6. install required libraries \
 ```pip install -r requirements.txt```
 
-7. run the app \
+7. add/modify db.yaml file accordingly
+
+8. run the app \
 ```python app.py```
    
-8. CTRL+C to quit and type ```deactivate```
+9. CTRL+C to quit and type ```deactivate```
